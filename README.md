@@ -48,13 +48,14 @@ Lower thresholds substantially increased recall for screening scenarios.
 
 ## Repository Structure
 
+```
 hospital-readmission-ml
 │
-├── A1C_clinical_significance_and_severity_proxy.pdf
 ├── readmission_model.ipynb
-├── refined_documentation.pdf
 ├── final_readmission_model.joblib
 ├── requirements.txt
+└── A1C_clinical_significance_and_severity_proxy.pdf
+```
 
 
 
@@ -74,5 +75,6 @@ jupyter notebook readmission_model.ipynb
 Ben Harris  
 MS Business Analytics – University of Cincinnati  
 Data Science | Machine Learning | Healthcare Analytics
+
 
 
